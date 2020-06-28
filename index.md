@@ -1,3 +1,3 @@
-# Welcome to my blog
+#This is A site about Murphy
 
-I'm glad you are here. I plan to talk about ...
+I hope you enjoy!
